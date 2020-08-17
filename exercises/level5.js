@@ -14,7 +14,7 @@ function lvl5exercise2 () {
 
 function lvl5exercise3 () {
   // Return the length of the array
-  var arr = [1, 'adam']
+  var arr = [1, 'adam'];
   return arr.length;
 }
 
