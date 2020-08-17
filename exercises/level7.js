@@ -6,5 +6,9 @@
 
 function finalFunction(num1) {
     myArray = [];
-    
+    var x;
+    for (x = 0; x < num1; x++) {
+        myArray.push("finalFunction");
+    }
+    return myArray;
 }
